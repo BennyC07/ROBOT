@@ -34,8 +34,8 @@ MOTOR_RIGHT_EN  = 11
 IR_LEFT         = 28
 IR_CENTRE       =27
 IR_RIGHT        =26
-OLED_SDA        = #0
-OLED_SCL        = #1
+OLED_SDA        = 16
+OLED_SCL        = 17
 
 # Control tuning.
 BASE_SPEED       = 22    # motor duty on a straight line
